@@ -54,7 +54,7 @@ module.exports = {
 
     http.createServer(onClientConnect)
       .listen(port)
-      .on(`listening`, (err) => {
+      .on(`listening`, () => {
         console.info(chalk.green(`Waiting for connections on port ${port}`));
       })
       .on(`error`, ({message}) => {
