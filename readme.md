@@ -1,7 +1,7 @@
 # Учебный проект «Куплю. Продам» [![Build status][travis-image]][travis-url]
 
 * Студент: [Alexander Matskevich](https://up.htmlacademy.ru/nodejs/3/user/354995).
-* Наставник: `Неизвестно`.
+* Наставник: `Дмитрий Мирошниченко`.
 
 ---
 
